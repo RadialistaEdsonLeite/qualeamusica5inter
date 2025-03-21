@@ -79,9 +79,9 @@ document.addEventListener("DOMContentLoaded", () => {
       description: "🎶 Um verdadeiro clássico dos anos 70, essa canção romântica de Lobo (pseudônimo de Roland Kent LaVoie) conquistou corações ao redor do mundo. Seu tom melancólico e apaixonado fez dela uma das músicas mais pedidas nas rádios na época, e até hoje ela embala histórias de amor e saudade. Quem nunca se identificou com a dor de querer alguém que não sente o mesmo? 💔✨",
       options: [
         { name: "I’d Love You To Want Me", artist: "Lobo" },
-        { name: "TITULO", artist: "INTERPRETE" },
-        { name: "TITULO", artist: "INTERPRETE" },
-        { name: "TITULO", artist: "INTERPRETE" }
+        { name: "Bye Bye Love", artist: "The Everly Brothers" },
+        { name: "I Am Woman", artist: "Helen Reddy" },
+        { name: "You Really Got Me", artist: "The Kinks" }
       ] 
     },
 {
