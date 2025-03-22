@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
       song: "https://radialistaedsonleite.github.io/qualeamusica5inter/GreenGreenGrassOfHome_TomJones.mp3",
       name: "Green Green Grass Of Home",
       artist: "Tom Jones",
-      image: "https://radialistaedsonleite.github.io/qualeamusica5inter/GreenGreenGrassOfHome_TomJones.jpg",
+      image: "https://radialistaedsonleite.github.io/qualeamusica5inter/GreenGreenGrassOfHome_TomJones.mp3",
       description: "🌿🏡 Tom Jones imortalizou essa música nostálgica sobre o desejo de voltar para casa. Escrita por Curly Putman, foi a versão de Jones que a transformou em um sucesso mundial. A letra comovente conta a história de um homem que sonha em retornar ao lar, mas a revelação final da canção surpreende e emociona. Uma verdadeira obra-prima da música country e pop! 🎶✨",
       options: [
         { name: "I Think I Love You", artist: "The Partridge Family" },
